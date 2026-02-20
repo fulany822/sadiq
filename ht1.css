@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}    
+.all{
+    background: radial-gradient(black,rgb(178, 141, 141),rgb(48, 41, 41),rgb(44, 39, 39),rgb(227, 125, 125),black);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.myone{
+    margin-top: 3px;
+    margin-bottom: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 10px 5px;
+    font-size: 2rem;
+    border-radius: 10px;
+    /* background-color: brown; */
+    text-align: center;
+    font-family: monospace;
+    text-wrap: nowrap;
+    overflow: hidden;
+    width: 59ch;
+    animation: typing 6s steps(50) infinite alternate-reverse;
+   
+}
+@keyframes typing{
+    from{width: 0ch;}
+}
+.mythree{
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-left: 4px;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+.my0{
+    font-size: 1.5rem;
+}
+.my1{
+    font-weight:  bold;
+    display: flex;
+    justify-content: space-around;
+    gap: 3rem;
+    list-style: none;
+}
+.myfour{
+    margin: 10px 10px;
+}
+.myfive{
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: center;
+    color: rgb(250, 203, 203);
+}
+.my2{
+    background-color: brown;
+    border-radius: 10px;
+    margin: 5px 4px;
+    padding: 8px 5px;
+}
+.mysix{
+    text-align: center;
+}
+.mysix img{
+    background-color: blueviolet;
+    height: 21rem;
+    width: 40;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border-radius: 20px;   
+}
+.end{
+    padding: 2rem 2rem;
+}
+.my3{
+    color: rgb(250, 203, 203);
+}
