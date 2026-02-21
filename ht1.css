@@ -21,15 +21,15 @@
     /* background-color: brown; */
     text-align: center;
     font-family: monospace;
-    text-wrap: nowrap;
-    overflow: hidden;
-    width: 59ch;
-    animation: typing 6s steps(50) infinite alternate-reverse;
+    /* text-wrap: nowrap;
+    overflow: hidden; */
+    /* width: 59ch; */
+    /* animation: typing 6s steps(50) infinite alternate-reverse; */
    
-}
+/* }
 @keyframes typing{
     from{width: 0ch;}
-}
+} */
 .mythree{
     background-color: black;
     color: white;
@@ -82,4 +82,5 @@
 }
 .my3{
     color: rgb(250, 203, 203);
+
 }
