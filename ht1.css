@@ -71,8 +71,8 @@
 }
 .mysix img{
     background-color: blueviolet;
-    height: 21rem;
-    width: 40;
+    height: 400px;
+    width: 400px;
     margin-left: 1rem;
     margin-top: 1rem;
     border-radius: 20px;   
@@ -84,6 +84,7 @@
     color: rgb(250, 203, 203);
 
 }
+
 
 
 
