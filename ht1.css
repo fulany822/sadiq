@@ -20,16 +20,16 @@
     border-radius: 10px;
     /* background-color: brown; */
     text-align: center;
-    font-family: monospace;
+    /* font-family: monospace; */
     /* text-wrap: nowrap; */
     /* overflow: hidden; */
-    width: 59ch;
+    /* width: 59ch; */
     /* animation: typing 6s steps(50) infinite alternate-reverse; */
    
-}
+/* }
 @keyframes typing{
     from{width: 0ch;}
-}
+} */
 .mythree{
     background-color: black;
     color: white;
@@ -84,5 +84,6 @@
     color: rgb(250, 203, 203);
 
 }
+
 
 
